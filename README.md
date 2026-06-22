@@ -177,7 +177,7 @@ Analyzes project financial performance and profitability.
 
 ## How to Use
 
-1. Open the `Project Management Dashboard.pbix` File in Power BI Desktop.
+1. Open the `Full Project management task .pbix` File in Power BI Desktop.
 2. Explore dashboard pages.
 3. Use slicers to filter data.
 4. Analyze project performance and financial outcomes.

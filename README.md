@@ -163,15 +163,15 @@ Analyzes project financial performance and profitability.
 
 ### Overview Page
 
-![Overview](Images/overview.png)
+![Overview](Images/overview.PNG)
 
 ### Performance Page
 
-![Performance](Images/performance.png)
+![Performance](Images/performance.PNG)
 
 ### Financial Page
 
-![Financial](Images/finance.png)
+![Financial](Images/finance.PNG)
 
 ---
 

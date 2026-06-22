@@ -171,7 +171,7 @@ Analyzes project financial performance and profitability.
 
 ### Financial Page
 
-![Financial](Images/financial.png)
+![Financial](Images/finance.png)
 
 ---
 
